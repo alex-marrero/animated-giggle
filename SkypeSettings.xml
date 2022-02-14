@@ -1,0 +1,28 @@
+<SkypeSettings>
+	<AutoScreenShare>true</AutoScreenShare>
+	<IsTeamsDefaultClient>true</IsTeamsDefaultClient>
+	<BluetoothAdvertisementEnabled>true</BluetoothAdvertisementEnabled>
+	<AutoAcceptProximateMeetingInvitations>true</AutoAcceptProximateMeetingInvitations>
+	<TeamsMeetingsEnabled>true</TeamsMeetingsEnabled>
+	<WebExMeetingsEnabled>true</WebExMeetingsEnabled>
+	<ZoomMeetingsEnabled>true</ZoomMeetingsEnabled>
+	<AutoExitMeetingEnabled>true</AutoExitMeetingEnabled>
+	<DefaultFoRExperience>1</DefaultFoRExperience>
+	<UseCustomInfoForThirdPartyMeetings>true</UseCustomInfoForThirdPartyMeetings>
+	<CustomDisplayNameForThirdPartyMeetings>ACME Meeting Room</CustomDisplayNameForThirdPartyMeetings>
+	<CustomDisplayEmailForThirdPartyMeetings>MeetingRoom@ACME.com</CustomDisplayEmailForThirdPartyMeetings>
+	<DuplicateIngestDefault>false</DuplicateIngestDefault>
+	<SendLogs>
+		<EmailAddressForLogsAndFeedback>alex.marrero215@outlook.com</EmailAddressForLogsAndFeedback>
+		<SendLogsAndFeedback>true</SendLogsAndFeedback>
+	</SendLogs>
+	<Theming>
+		<ThemeName>Custom</ThemeName>
+		<CustomThemeImageUrl>TardisBG.jpg</CustomThemeImageUrl>
+		<CustomThemeColor>
+			<RedComponent>100</RedComponent>
+			<GreenComponent>100</GreenComponent>
+			<BlueComponent>100</BlueComponent>
+		</CustomThemeColor>
+	</Theming>
+</SkypeSettings>

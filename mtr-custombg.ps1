@@ -1,0 +1,2 @@
+Invoke-WebRequest -Uri "https://mtrassets.z13.web.core.windows.net/TardisBG.jpg" -OutFile "C:\Users\Skype\AppData\Local\Packages\Microsoft.SkypeRoomSystem_8wekyb3d8bbwe\LocalState\TardisBG.jpg"
+Invoke-WebRequest -Uri "https://mtrassets.z13.web.core.windows.net/SkypeSettings.xml" -OutFile "C:\Users\Skype\AppData\Local\Packages\Microsoft.SkypeRoomSystem_8wekyb3d8bbwe\LocalState\SkypeSettings.xml"
